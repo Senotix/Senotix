@@ -1,1 +1,1 @@
-<img src="./banner.svg" alt="Senotix Profile Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Senotix/senotix/main/banner.svg" alt="Senotix Profile Banner" width="100%">
